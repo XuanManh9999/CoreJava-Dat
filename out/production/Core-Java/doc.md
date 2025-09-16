@@ -14,15 +14,19 @@
 # Nhập xuất cơ bản
 +, Scanner
 
+# Hàm (void, imt, float, double, string...)
+
 # Lập trình hường đối tượng
-+, Class & Object: các tạo lớp, thuộc tính, phương thức, khởi tạo đối tượng
-+, Constructor: mặc định, có tham số
-+, Encapsulation: đóng gói getter, setter, package
-+, Inheritance: kế thề với extends
++, Class & Object: các tạo lớp, thuộc tính, phương thức, khởi tạo đối tượng -> OK 
++, Constructor: mặc định, có tham số -> OK 
++, Encapsulation: đóng gói getter, setter, package -> OK
++, inheritance: kế thề với extends
 +, Polymorphism: Đa hình (Overriding, Overloading)
 +, Abstract & Interface: lớp trừu tượng
-+, Access Modifier: private, public, protected, 
++, Access Modifier: private, public, protected, -> OK 
+
+
+
 
 # Collection
-+, ArrayList<>
-+, List
++, List, Map, Set

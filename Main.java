@@ -1,3 +1,5 @@
+//import accessModifier.Person;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -161,10 +163,27 @@ public class Main {
 //        System.out.println(nam.isEmpty());// Kiểm tra chuỗi có đang rỗng hay không
 //        System.out.println(nam.trim()); // Loại bỏ khoảng cách đầu cuối
 //        System.out.println(nam.);
-        Scanner sc = new Scanner(System.in);
+//        Scanner sc = new Scanner(System.in);
 //        int age = sc.nextInt(); Số nguyên
-        float age = sc.nextFloat();
-        System.out.println(age);
+//        float age = sc.nextFloat();
+//        System.out.println(age);
+//        System.out.println("Nhập vào Họ: ");
+//        String ho = sc.nextLine();
+//        System.out.println("Nhập vào Tên: ");
+//        String ten = sc.nextLine();
+//
+//        System.out.println(ho + ten + (ho.length() + ten.length()));
+
+
+        // doi tuong khong co gi thi ra null
+//        ViDu1 DoiTuong1 = new ViDu1();
+//        DoiTuong1.setTen("Đạt");
+//        System.out.println("Doi tuon 1: " + DoiTuong1.getTen() + DoiTuong1.getTuoi());
+//
+//        ViDu1 DoiTuong2 = new ViDu1("Tong Cong Minh");
+//        System.out.println("Doi tuon 2: " + DoiTuong2.getTen() + DoiTuong2.getTuoi());
+
+//        Person person = new Person();
     }
 //# Nhập xuất cơ bản
 //+, Scanner

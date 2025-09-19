@@ -86,7 +86,7 @@ public class Main {
 //            default:
 //                System.out.println("Default");
 //        }
-    // Toán tử 3 ngôi
+        // Toán tử 3 ngôi
 //     int a = 11;
 //
 //     if (a % 2 == 0) {
@@ -99,7 +99,7 @@ public class Main {
 //
         // Mảng (array)
 //       int [] ten_mang_1 = {1, 2, 3, 4, 5, 6};
-       // chỉ mục xuất phất từ 0
+        // chỉ mục xuất phất từ 0
         // cách lấy độ dài của mảng ten_mang_1.length
 
 //        System.out.println("Phần tử đầu: " + ten_mang_1[0]);

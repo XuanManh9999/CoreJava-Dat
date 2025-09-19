@@ -14,7 +14,6 @@ public class Student extends Person {
     public Integer getMsv() {
         return msv;
     }
-
     public void setMsv(Integer msv) {
         this.msv = msv;
     }

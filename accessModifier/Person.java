@@ -30,6 +30,7 @@ public class  Person {
         this.age = age;
         this.address = address;
         this.job = job;
+        setUsername("ABC");
     }
 
     protected String getUsername() {
